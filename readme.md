@@ -45,7 +45,9 @@ This program fixes this issue by replacing the "Cast" flyout in Windows with the
 [https://fluenticons.co/](https://fluenticons.co/)
 
 **Others/Footnotes**
+
 Note: This script may trigger Windows Defender because I did not sign this program with a certificate. Just press "Run Anyway" if prompted in Windows Defender SmartShield.
+
 **\*\*\*Verbatim Instructions in Case of Confusion**
 
 1. Right click the shortcut \> Properties \> "Shortcut" tab \> Choose "Minimized" under the listing "Run" \> Close the Properties window
