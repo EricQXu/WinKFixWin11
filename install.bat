@@ -1,0 +1,2 @@
+powershell "$s=(New-Object -COM WScript.Shell).CreateShortcut('%userprofile%\Desktop\Bluetooth.lnk');$s.TargetPath='%userprofile%\Documents\BTFixWin1122H2\Bluetooth.bat';$s.WorkingDirectory = '%userprofile%\Documents\BTFixWin1122H2\'; $s.WindowStyle = 7; $s.IconLocation = '%userprofile%\Documents\BTFixWin1122H2\assets\icons\Bluetooth.ico'; $s.Hotkey = 'CTRL+SHIFT+ALT+B'; $s.Save()"
+attrib %userprofile%\Desktop\Bluetooth.lnk +h
