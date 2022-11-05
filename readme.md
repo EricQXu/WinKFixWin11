@@ -22,9 +22,7 @@ This program fixes this issue by replacing the "Cast" flyout in Windows with the
 3. Run "install.bat" in the extracted BTFixWin1122H2 folder located in your Documents folder. Click "Run anyway" if Defender SmartShield comes up. This is safe; I just did not sign the file. 
 6. Open PowerToys and go to the Keyboard Manager tab and click "Remap a Shortcut" button. Set the left option to Win + K and the right option to Ctrl + Shift + Alt + B and press Save. \*\*\*
 7. Either A.) restart your PC or B.) sign out and sign back in; either works
-8. Optional: Pick an icon. An icon is included under in %userprofile%\Documents\BTFixWin1122H2\assets\icons.
-9. Optional: To hide this shortcut from your Desktop, do the following: Right click \> Properties \> "General" tab \> Check "Hidden"
-10. Enjoy!
+8. Enjoy!
 
 **Known Bugs**
 
