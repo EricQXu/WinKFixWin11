@@ -19,9 +19,7 @@ This program fixes this issue by replacing the "Cast" flyout in Windows with the
 
 1. Download BTFixWin1122H2.zip from the latest release under "Release"
 2. Extract the ZIP file downloaded in step 1 to your Documents folder
-3. Create a shortcut on Desktop to "%userprofile%\Documents\BTFixWin1122H2\Bluetooth.bat" and name it whatever you want (ex. Bluetooth Toggle)
-4. In the Properties window, make it run as minimized \*\*\*
-5. In the same Properties window, set the keyboard shortcut to Ctrl + Shift + Alt + B \*\*\*
+3. Run "install.bat" in the extracted BTFixWin1122H2 folder located in your Documents folder. Click "Run anyway" if Defender SmartShield comes up. This is safe; I just did not sign the file. 
 6. Open PowerToys and go to the Keyboard Manager tab and click "Remap a Shortcut" button. Set the left option to Win + K and the right option to Ctrl + Shift + Alt + B and press Save. \*\*\*
 7. Either A.) restart your PC or B.) sign out and sign back in; either works
 8. Optional: Pick an icon. An icon is included under in %userprofile%\Documents\BTFixWin1122H2\assets\icons.
@@ -50,7 +48,5 @@ Note: This script may trigger Windows Defender because I did not sign this progr
 
 **\*\*\*Verbatim Instructions in Case of Confusion**
 
-1. Right click the shortcut \> Properties \> "Shortcut" tab \> Choose "Minimized" under the listing "Run" \> Close the Properties window
-2. Right click the shortcut \> Properties \> "Shortcut" tab \> Click the "Shortcut key" box and press Ctrl + Shift + Alt + B \> Close the Properties window
-3. Press ᐱ on the taskbar to show the tray area. Right click PowerToys and press Settings.
-4. Under the Keyboard Manager tab, press "Remap a Shortcut". In the left box, press Win + K after pressing the "Type" button. In the right box, press Ctrl + Shift + Alt + B after pressing the "Type" button. Press Save.
+1. Press ᐱ on the taskbar to show the tray area. Right click PowerToys and press Settings.
+2. Under the Keyboard Manager tab, press "Remap a Shortcut". In the left box, press Win + K after pressing the "Type" button. In the right box, press Ctrl + Shift + Alt + B after pressing the "Type" button. Press Save.
